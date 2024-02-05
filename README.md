@@ -2,9 +2,17 @@
 qq聊天记录生成年度报表
 ## 重要代码来源：
 原始微信聊天年度报表生成
+
+
 https://foolishfox.cn/posts/202402-WeChatMsgAnalysis.html
+
+
 重要参考代码来自以下ipynb文件
+
+
 https://gist.github.com/YiHui-Liu/1ed2f9484c5e20587d016e5d7854c273
+
+
 词义文件txt均在目录下。
 同等重要的qq生成网页项目：
 https://github.com/ping-xiong/annual-report-builder
